@@ -32,12 +32,6 @@ Before running the script, ensure you have Python installed and the required lib
 
 2.  **Create a virtual environment (recommended):**
 
-    ```bash
-    python -m venv vFinance
-    cd vFinance
-    source bin/activate  # On Linux/macOS
-    . venv/Scripts/activate  # On Windows
-    ```
 
 3.  **Install required Python libraries:**
 

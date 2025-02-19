@@ -57,7 +57,7 @@ Before running the script, ensure you have Python installed and the required lib
 ## API Key and Rate Limits
 
 *   **Alpha Vantage API Key:** This script relies on the Alpha Vantage API to fetch financial data. You need to obtain a free API key from their website ([Alpha Vantage](https://www.alphavantage.co/)) and insert it into the script.
-*   **Rate Limits:** The Alpha Vantage Free API is rate-limited to 5 API calls per minute and 500 calls per day. Be mindful of these limits when using the script, especially if analyzing multiple companies in quick succession. If you exceed the rate limit, you may need to wait before running the script again.
+*   **Rate Limits:** The Alpha Vantage Free API is rate-limited. Be mindful of these limits when using the script, especially if analyzing multiple companies in quick succession. If you exceed the rate limit, you may need to wait before running the script again.
 
 ## Output
 

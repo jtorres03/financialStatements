@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.vFinance
-*.log
-*.cfg  # If you want to ignore pyvenv.cfg

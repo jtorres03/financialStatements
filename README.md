@@ -28,7 +28,7 @@ This Python script is a tool for analyzing the financial health of publicly trad
 
 Before running the script, ensure you have Python installed and the required libraries.
 
-1.  **Clone the repository (if applicable) or save the Python script (`fiance.py`) to your local machine.**
+1.  **Clone the repository (if applicable) or save the Python script (`FinancialSummaries.py`) to your local machine.**
 
 2.  **Create a virtual environment (recommended):**
 

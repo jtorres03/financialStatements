@@ -49,7 +49,7 @@ Before running the script, ensure you have Python installed and the required lib
 
 1.  **Obtain an Alpha Vantage API Key:**
     *   Sign up for a free API key at [Alpha Vantage](https://www.alphavantage.co/).
-    *   Replace `"O8CWLHU7WK70K5U8"` in the `fiance.py` script with your actual API key.
+    *   Replace `"YourAPIKEY"` in the `fiance.py` script with your actual API key.
 
 2.  **Run the script:**
 
